@@ -1,15 +1,26 @@
-# 🎬 DEEPNIGHT CINEMA v1.0.0 — Самодостаточный онлайн-кинотеатр для Android TV
+<p align="center">
+  <img src="assets/logo.jpg" alt="DeepNight Cinema Logo" width="300" />
+</p>
 
-[![Android TV](https://img.shields.io/badge/Platform-Android%20TV%20%2F%20Google%20TV-00E5FF?style=for-the-badge&logo=android)](https://github.com/Igor1974/DeepNight-Cinema)
-[![Version](https://img.shields.io/badge/Version-1.0.0-10B981?style=for-the-badge)](https://github.com/Igor1974/DeepNight-Cinema/releases)
-[![Min Android](https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3B82F6?style=for-the-badge)](https://github.com/Igor1974/DeepNight-Cinema/releases)
-[![Zero Setup](https://img.shields.io/badge/Setup-Zero%20Config%20%E2%80%A2%20All--in--One-A855F7?style=for-the-badge)](https://github.com/Igor1974/DeepNight-Cinema)
-[![License](https://img.shields.io/badge/License-5%20Days%20Free%20%E2%80%A2%20499%E2%82%BD%20Forever-FFD600?style=for-the-badge)](https://github.com/Igor1974/DeepNight-Cinema)
+<h1 align="center">🎬 DEEPNIGHT CINEMA v1.0.0</h1>
+<p align="center"><b>Самодостаточный онлайн-кинотеатр для Android TV и ТВ-приставок</b></p>
+
+<p align="center">
+  <a href="https://github.com/Igor1974/DeepNight-Cinema"><img src="https://img.shields.io/badge/Platform-Android%20TV%20%2F%20Google%20TV-00E5FF?style=for-the-badge&logo=android" alt="Android TV" /></a>
+  <a href="https://github.com/Igor1974/DeepNight-Cinema/releases"><img src="https://img.shields.io/badge/Version-1.0.0-10B981?style=for-the-badge" alt="Version 1.0.0" /></a>
+  <a href="https://github.com/Igor1974/DeepNight-Cinema/releases"><img src="https://img.shields.io/badge/Android-8.0%2B%20(API%2026)-3B82F6?style=for-the-badge" alt="Android 8.0+" /></a>
+  <a href="https://github.com/Igor1974/DeepNight-Cinema"><img src="https://img.shields.io/badge/Setup-Zero%20Config%20%E2%80%A2%20All--in--One-A855F7?style=for-the-badge" alt="Zero Setup" /></a>
+  <a href="https://github.com/Igor1974/DeepNight-Cinema"><img src="https://img.shields.io/badge/License-5%20Days%20Free%20%E2%80%A2%20499%E2%82%BD%20Forever-FFD600?style=for-the-badge" alt="License" /></a>
+</p>
 
 > **Автор идеи и концепта**: **`~ИГОРЬ~ (4PDA)`**  
 > **Экосистема**: **DeepNight Ecosystem** (*DeepNight Launcher • DeepNight TV • DeepNight DSP • DeepNight Cinema*)  
 > **Официальный профиль GitHub**: [Igor1974](https://github.com/Igor1974)  
 > **Официальные релизы**: [Скачать сборки (Releases)](https://github.com/Igor1974/DeepNight-Cinema/releases)
+
+---
+
+![DeepNight Cinema — Главный экран](screenshots/01_home.png)
 
 ---
 
@@ -24,6 +35,22 @@
 - ❌ **Не нужен сторонний видеоплеер** — встроенный аппаратный плеер на базе Media3 заточен под обычный ТВ-пульт.
 
 Достаточно установить один APK, взять пульт и нажать **«Смотреть»**.
+
+---
+
+## 📸 Скриншоты интерфейса
+
+| Топ-10 сейчас в 4K и Новинки в цифре | Раздел «Сериалы» |
+| :---: | :---: |
+| ![Топ-10 сейчас в 4K](screenshots/02_top10.png) | ![Сериалы](screenshots/03_series.png) |
+
+| Детский режим | Поиск и популярные подборки |
+| :---: | :---: |
+| ![Детский режим](screenshots/04_kids_mode.png) | ![Поиск](screenshots/05_search.png) |
+
+| Выбор источников 4K HDR и «В ролях» | Лицензия и активация PRO |
+| :---: | :---: |
+| ![Источники 4K HDR](screenshots/06_sources.png) | ![Активация PRO](screenshots/07_pro_activation.png) |
 
 ---
 
@@ -67,7 +94,7 @@
 ## 📥 Скачать
 
 Готовый подписанный APK доступен в разделе **[Releases](https://github.com/Igor1974/DeepNight-Cinema/releases)**:
-- 📺 **[DeepNight_Cinema_v1.0.0.apk](https://github.com/Igor1974/DeepNight-Cinema/releases/latest)** — универсальная сборка для всех Android TV и приставок.
+- 📺 **[DeepNight_Cinema_v1.0.0.apk](https://github.com/Igor1974/DeepNight-Cinema/releases/download/v1.0.0/DeepNight_Cinema_v1.0.0.apk)** — универсальная сборка для всех Android TV и приставок.
 
 > ℹ️ *Данный репозиторий предназначен исключительно для публикации официальных релизных сборок (APK) и документации. Исходный код проекта закрыт.*
 
